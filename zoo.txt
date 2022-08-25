@@ -9,3 +9,4 @@ hungry . I went to get a <adjective> scoop of ice cream .
 It filled my stomach. Afterwards I had to <verb>
 <adverb> to catch our bus . When I got home I <verb-past-tense>
 my mom for a <adjective> day at the zoo .
+These are the changes that I made to the repository.
